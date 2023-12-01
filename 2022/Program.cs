@@ -1,6 +1,6 @@
 ﻿using _2022;
 
-var data = File.ReadAllLines("Day3.txt");
+var data = File.ReadAllLines("Day4.txt");
 
-Console.WriteLine($"{Day3.SolvePartOne(data)}");
-Console.WriteLine($"{Day3.SolvePartTwo(data)}");
+Console.WriteLine($"{Day4.SolvePartOne(data)}");
+Console.WriteLine($"{Day4.SolvePartTwo(data)}");
