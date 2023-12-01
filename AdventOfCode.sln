@@ -7,6 +7,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2023-1a", "2023-1a\2023-1a.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2023-1b", "2023-1b\2023-1b.csproj", "{C9552682-D9A2-4732-82D3-418D2CFA364F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2023-2a", "2023-2a\2023-2a.csproj", "{891585C0-082B-429D-8F07-6A5DFF7CA6BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2023-2b", "2023-2b\2023-2b.csproj", "{F33B5FF5-1F02-4B63-94B8-EBDE5F97C0D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FDFF4C3C-5C08-47FA-8EC0-BC6CF492859C}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +32,14 @@ Global
 		{C9552682-D9A2-4732-82D3-418D2CFA364F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9552682-D9A2-4732-82D3-418D2CFA364F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9552682-D9A2-4732-82D3-418D2CFA364F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{891585C0-082B-429D-8F07-6A5DFF7CA6BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{891585C0-082B-429D-8F07-6A5DFF7CA6BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{891585C0-082B-429D-8F07-6A5DFF7CA6BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{891585C0-082B-429D-8F07-6A5DFF7CA6BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F33B5FF5-1F02-4B63-94B8-EBDE5F97C0D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F33B5FF5-1F02-4B63-94B8-EBDE5F97C0D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F33B5FF5-1F02-4B63-94B8-EBDE5F97C0D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F33B5FF5-1F02-4B63-94B8-EBDE5F97C0D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
