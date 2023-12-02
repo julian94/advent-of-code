@@ -6,6 +6,7 @@ public static class Day
     {
         return "";
     }
+
     public static string SolvePartTwo(IList<string> input)
     {
         return "";
